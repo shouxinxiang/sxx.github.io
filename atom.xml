@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sxx.github.io</id>
+    <title>收信箱blog</title>
+    <updated>2020-08-24T09:38:08.948Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://sxx.github.io"/>
+    <link rel="self" href="https://sxx.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://sxx.github.io/images/avatar.png</logo>
+    <icon>https://sxx.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 收信箱blog</rights>
+    <entry>
+        <title type="html"><![CDATA[欢迎来到收信箱]]></title>
+        <id>https://sxx.github.io/post/hello-sxx/</id>
+        <link href="https://sxx.github.io/post/hello-sxx/">
+        </link>
+        <updated>2019-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>收信箱</strong> ！<br>
+✍️  <strong>收信箱</strong> 一个发布在线手机号码的平台，方便大家使用隐私小号避免被骚扰的短信接收方式。<br>
+网站地址：https://www.shouxinxiang.com</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>收信箱</strong> ！<br>
+✍️  <strong>收信箱</strong> 一个发布在线手机号码的平台，方便大家使用隐私小号避免被骚扰的短信接收方式。<br>
+网站地址：https://www.shouxinxiang.com</p>
+<!-- more -->
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
